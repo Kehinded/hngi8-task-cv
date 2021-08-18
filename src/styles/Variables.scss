@@ -1,0 +1,78 @@
+
+:root {
+  --home-primary-color-light: #f76a65;
+  --home-primary-color-dark: #ed0c0c;
+  --home-secondary-color-light:  #71deeb;
+  --home-secondary-color-dark:  #24c2d4;
+}
+
+// color variables
+$primary-color-light: var(--home-primary-color-light);
+$primary-color-dark: var(--home-primary-color-dark);
+$secondary-color-dark: var(--home-secondary-color-dark);
+$color-grey-light-1: #f9f7f6;
+$color-grey-light-2: #a39494;
+$color-grey-dark-1: #54483A;
+$color-grey-dark-2: #6D5D4B;
+
+// margins variable
+$mb-sm:.7rem;
+$mb-md:1.5rem;
+$mb-lg:2rem;
+$mt-sm:2rem;
+$mt-md:4rem;
+$mt-lg:8rem;
+
+// headings
+
+.heading__1{
+    font-size: 2.6rem;
+    color: $color-grey-dark-1;
+    text-transform: uppercase;
+    margin-bottom: $mb-sm;
+    font-weight: bolder;
+    @media only screen and (max-width: 37em){
+        font-size: 2rem;    
+                  }
+}
+
+.heading__2{
+    font-size: 1.8rem;
+    color: $color-grey-dark-1;
+    text-transform: uppercase;
+    margin-bottom: $mb-sm;
+    font-weight: bold;
+    @media only screen and (max-width: 37em){
+        font-size: 1.4rem;    
+                  }
+}
+
+.heading__3{
+    font-size: 1.5rem;
+    color: $color-grey-light-2;
+    text-transform: uppercase;
+    margin-bottom: $mb-md;
+    @media only screen and (max-width: 37em){
+        font-size: 1.2rem;    
+                  }
+}
+
+.heading__4{
+    font-size: 1.4rem;
+    color: $color-grey-dark-2;
+    text-transform: capitalize;
+    margin-bottom: $mb-sm;
+    font-weight: bold;
+    @media only screen and (max-width: 37em){
+        font-size: 1rem;    
+                  }
+}
+
+// // gradient
+// $gradient-1:linear-gradient(135deg, var(--home-secondary-color-dark) 0%, var(--home-secondary-color-dark) 25%, #ecf0f3 80%,  var(--home-secondary-color-light) 100%);
+
+// // gradient
+// $gradient-2:linear-gradient(-135deg, var(--home-secondary-color-dark) 0%, var(--home-secondary-color-dark) 25%, #ecf0f3 80%,  var(--home-secondary-color-light) 100%);
+
+// // gradient
+// $gradient-3:linear-gradient(45deg, var(--home-secondary-color-dark) 0%, var(--home-secondary-color-dark) 25%, #ecf0f3 80%,  var(--home-secondary-color-light) 100%);

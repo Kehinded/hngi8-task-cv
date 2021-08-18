@@ -1,0 +1,70 @@
+:root {
+  --home-primary-color-light: #f76a65;
+  --home-primary-color-dark: #ed0c0c;
+  --home-secondary-color-light:  #71deeb;
+  --home-secondary-color-dark:  #24c2d4;
+}
+
+.heading__1 {
+  font-size: 2.6rem;
+  color: #54483A;
+  text-transform: uppercase;
+  margin-bottom: 0.7rem;
+  font-weight: bolder;
+}
+
+@media only screen and (max-width: 37em) {
+  .heading__1 {
+    font-size: 2rem;
+  }
+}
+
+.heading__2 {
+  font-size: 1.8rem;
+  color: #54483A;
+  text-transform: uppercase;
+  margin-bottom: 0.7rem;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 37em) {
+  .heading__2 {
+    font-size: 1.4rem;
+  }
+}
+
+.heading__3 {
+  font-size: 1.5rem;
+  color: #a39494;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+}
+
+@media only screen and (max-width: 37em) {
+  .heading__3 {
+    font-size: 1.2rem;
+  }
+}
+
+.heading__4 {
+  font-size: 1.4rem;
+  color: #6D5D4B;
+  text-transform: capitalize;
+  margin-bottom: 0.7rem;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 37em) {
+  .heading__4 {
+    font-size: 1rem;
+  }
+}
+
+.header {
+  padding: 1rem 0rem 0rem 0rem;
+}
+
+.header .img-box {
+  padding-left: 8%;
+}
+/*# sourceMappingURL=Header.css.map */
