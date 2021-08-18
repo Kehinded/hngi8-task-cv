@@ -59,6 +59,7 @@ export default function TextAnimation () {
             setPlay(true)
         }, 10000);
         return () => clearTimeout(timer)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [])
 
 
