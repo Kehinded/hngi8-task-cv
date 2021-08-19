@@ -1,3 +1,7 @@
+
+
+github deployment link :   https://kehinded.github.io/hngi8-task-cv/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
