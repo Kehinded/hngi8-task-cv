@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hngi8-task-cv/static/css/main.e78ab895.chunk.css",
-    "main.js": "/hngi8-task-cv/static/js/main.f5fdb73a.chunk.js",
-    "main.js.map": "/hngi8-task-cv/static/js/main.f5fdb73a.chunk.js.map",
+    "main.css": "/hngi8-task-cv/static/css/main.720edd22.chunk.css",
+    "main.js": "/hngi8-task-cv/static/js/main.1602d0a9.chunk.js",
+    "main.js.map": "/hngi8-task-cv/static/js/main.1602d0a9.chunk.js.map",
     "runtime-main.js": "/hngi8-task-cv/static/js/runtime-main.1e029ea0.js",
     "runtime-main.js.map": "/hngi8-task-cv/static/js/runtime-main.1e029ea0.js.map",
     "static/js/2.c61526be.chunk.js": "/hngi8-task-cv/static/js/2.c61526be.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.9405dd56.chunk.js": "/hngi8-task-cv/static/js/3.9405dd56.chunk.js",
     "static/js/3.9405dd56.chunk.js.map": "/hngi8-task-cv/static/js/3.9405dd56.chunk.js.map",
     "index.html": "/hngi8-task-cv/index.html",
-    "static/css/main.e78ab895.chunk.css.map": "/hngi8-task-cv/static/css/main.e78ab895.chunk.css.map",
+    "static/css/main.720edd22.chunk.css.map": "/hngi8-task-cv/static/css/main.720edd22.chunk.css.map",
     "static/js/2.c61526be.chunk.js.LICENSE.txt": "/hngi8-task-cv/static/js/2.c61526be.chunk.js.LICENSE.txt",
     "static/media/kehindedUser.d5d7dbc7.png": "/hngi8-task-cv/static/media/kehindedUser.d5d7dbc7.png",
     "static/media/zuri-logo.36d2d48a.svg": "/hngi8-task-cv/static/media/zuri-logo.36d2d48a.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.1e029ea0.js",
     "static/js/2.c61526be.chunk.js",
-    "static/css/main.e78ab895.chunk.css",
-    "static/js/main.f5fdb73a.chunk.js"
+    "static/css/main.720edd22.chunk.css",
+    "static/js/main.1602d0a9.chunk.js"
   ]
 }
